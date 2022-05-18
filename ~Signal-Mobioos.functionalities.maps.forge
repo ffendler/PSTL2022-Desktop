@@ -1,4 +1,141 @@
 {
-    "rangeSeeds": [],
+    "rangeSeeds": [
+        {
+            "file": "ts/state/ducks/search.ts",
+            "seeds": [
+                {
+                    "id": "fa730a43-7043-4a36-919f-d12b7dae6b52",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "bfa031c1-7ff1-4f55-a830-0400be2c5a55",
+                    "startLine": 41,
+                    "startColumn": 0,
+                    "endLine": 43,
+                    "endColumn": 2,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "59c98e80-e17f-4585-8bf6-23d13cc6c982",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "bfa031c1-7ff1-4f55-a830-0400be2c5a55",
+                    "startLine": 128,
+                    "startColumn": 0,
+                    "endLine": 133,
+                    "endColumn": 1,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "81a29e22-c0d8-4d47-9978-c8e34e069938",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "bfa031c1-7ff1-4f55-a830-0400be2c5a55",
+                    "startLine": 134,
+                    "startColumn": 0,
+                    "endLine": 139,
+                    "endColumn": 1,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "eb9c32b8-6bf4-4a9d-a1dd-3f16a5e7ec1f",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "bfa031c1-7ff1-4f55-a830-0400be2c5a55",
+                    "startLine": 140,
+                    "startColumn": 0,
+                    "endLine": 145,
+                    "endColumn": 1,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "7e3aa25a-b0f2-4d1d-977a-26042e3ac403",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "bfa031c1-7ff1-4f55-a830-0400be2c5a55",
+                    "startLine": 146,
+                    "startColumn": 0,
+                    "endLine": 153,
+                    "endColumn": 1,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "a19e7bd7-3117-4b8d-b411-a7a0f60d01d2",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "bfa031c1-7ff1-4f55-a830-0400be2c5a55",
+                    "startLine": 183,
+                    "startColumn": 0,
+                    "endLine": 243,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "ts/state/selectors/search.ts",
+            "seeds": [
+                {
+                    "id": "2a45f16a-d3ed-442e-83a3-3afa8966d7d5",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "bfa031c1-7ff1-4f55-a830-0400be2c5a55",
+                    "startLine": 196,
+                    "startColumn": 0,
+                    "endLine": 198,
+                    "endColumn": 50,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "js/modules/signal.js",
+            "seeds": [
+                {
+                    "id": "fb1511ee-f856-483b-a08e-50bc7c411ac7",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "bfa031c1-7ff1-4f55-a830-0400be2c5a55",
+                    "startLine": 113,
+                    "startColumn": 0,
+                    "endLine": 113,
+                    "endColumn": 58,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "2000f0a9-f9c9-4c87-8876-0df896e2c8fe",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "bfa031c1-7ff1-4f55-a830-0400be2c5a55",
+                    "startLine": 119,
+                    "startColumn": 0,
+                    "endLine": 119,
+                    "endColumn": 67,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "326bdbe5-fffc-4c94-bac0-d1c7fb04b68b",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "bfa031c1-7ff1-4f55-a830-0400be2c5a55",
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "endLine": 375,
+                    "endColumn": 23,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "ad08fa64-b428-49a7-8223-66b704183ab8",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "bfa031c1-7ff1-4f55-a830-0400be2c5a55",
+                    "startLine": 381,
+                    "startColumn": 4,
+                    "endLine": 381,
+                    "endColumn": 28,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        }
+    ],
     "fileSeeds": []
 }

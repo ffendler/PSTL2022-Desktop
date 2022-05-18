@@ -1,4 +1,140 @@
 {
-    "rangeSeeds": [],
+    "rangeSeeds": [
+        {
+            "file": "stylesheets/_modules.scss",
+            "seeds": [
+                {
+                    "id": "fca032db-ab32-4657-b257-2f2bb4e0b49a",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "fc2ebf79-deec-4ffd-929f-de5adabe2493",
+                    "startLine": 6400,
+                    "startColumn": 13,
+                    "endLine": 6400,
+                    "endColumn": 45,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "6fbf76a5-9e3b-4756-a6ac-548c77aa300b",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "fc2ebf79-deec-4ffd-929f-de5adabe2493",
+                    "startLine": 6406,
+                    "startColumn": 13,
+                    "endLine": 6406,
+                    "endColumn": 45,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "38437d72-2baa-4b54-8b10-232937949ce2",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "fc2ebf79-deec-4ffd-929f-de5adabe2493",
+                    "startLine": 6560,
+                    "startColumn": 15,
+                    "endLine": 6560,
+                    "endColumn": 47,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "4917e244-44b8-4df9-b904-e711266a8d29",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "fc2ebf79-deec-4ffd-929f-de5adabe2493",
+                    "startLine": 6566,
+                    "startColumn": 15,
+                    "endLine": 6566,
+                    "endColumn": 47,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "stylesheets/components/Avatar.scss",
+            "seeds": [
+                {
+                    "id": "b93d06a9-fe4a-437b-b786-92d71d29c8b7",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "fbc1f645-45f3-4729-8b87-adb5fa2f0892",
+                    "startLine": 108,
+                    "startColumn": 31,
+                    "endLine": 108,
+                    "endColumn": 63,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "stylesheets/components/Button.scss",
+            "seeds": [
+                {
+                    "id": "ad02b067-583c-4512-b37e-98bd680901d8",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "fc2ebf79-deec-4ffd-929f-de5adabe2493",
+                    "startLine": 276,
+                    "startColumn": 28,
+                    "endLine": 276,
+                    "endColumn": 60,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "stylesheets/components/ConversationHeader.scss",
+            "seeds": [
+                {
+                    "id": "7d1352cc-2177-43fa-b0ec-c12f4b3734de",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "fbc1f645-45f3-4729-8b87-adb5fa2f0892",
+                    "startLine": 282,
+                    "startColumn": 9,
+                    "endLine": 282,
+                    "endColumn": 41,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "cd252723-ef7a-4f0d-a442-1fd0db84fa4a",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "fbc1f645-45f3-4729-8b87-adb5fa2f0892",
+                    "startLine": 283,
+                    "startColumn": 9,
+                    "endLine": 283,
+                    "endColumn": 41,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "stylesheets/components/SearchInput.scss",
+            "seeds": [
+                {
+                    "id": "3ca62c8a-f72e-4b84-8713-98e56d9c8403",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "fc2ebf79-deec-4ffd-929f-de5adabe2493",
+                    "startLine": 22,
+                    "startColumn": 26,
+                    "endLine": 22,
+                    "endColumn": 58,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "5a7103ce-4e9a-4972-bfa2-87a58cebeee7",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "fc2ebf79-deec-4ffd-929f-de5adabe2493",
+                    "startLine": 25,
+                    "startColumn": 26,
+                    "endLine": 25,
+                    "endColumn": 58,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        }
+    ],
     "fileSeeds": []
 }

@@ -135,7 +135,7 @@
         },
         {
             "key": "fc2ebf79-deec-4ffd-929f-de5adabe2493",
-            "name": "Search Icon",
+            "name": "Search Icon 16",
             "type": "Resource feature",
             "parent": "bfa031c1-7ff1-4f55-a830-0400be2c5a55",
             "parentRelation": "Normal",
@@ -143,6 +143,20 @@
             "lgFile": "",
             "role": "",
             "hexColor": "#02ae99",
+            "help": "",
+            "nodeWeight": -1,
+            "filePath": "images/icons/v2"
+        },
+        {
+            "key": "fbc1f645-45f3-4729-8b87-adb5fa2f0892",
+            "name": "Search Icon 24",
+            "type": "Resource feature",
+            "parent": "bfa031c1-7ff1-4f55-a830-0400be2c5a55",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#d545c8",
             "help": "",
             "nodeWeight": -1,
             "filePath": "images/icons/v2"
