@@ -3,13 +3,13 @@
 
 # PSTL Signal Desktop
 
-##Fonctionnaltités mapées
+## Fonctionnaltités mapées
 
 Search + ressources
 
 Audio Message + ressources
 
-##Variant
+## Variant
 
 TestVariant est un variant généré par Mobioos sans "Search" et "Audio Message"
 
