@@ -135,6 +135,54 @@
                     "isValidated": true
                 }
             ]
+        },
+        {
+            "file": "ts/components/conversation/MessageAudio.tsx",
+            "seeds": [
+                {
+                    "id": "e5e95934-549c-4966-b2cb-98cb7b15a54e",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "9e5ac5a5-7600-45e2-b5de-6a4a06bf43e5",
+                    "startLine": 186,
+                    "startColumn": 0,
+                    "endLine": 640,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "ts/state/smart/MessageAudio.tsx",
+            "seeds": [
+                {
+                    "id": "c478a6b2-1ff2-403d-bfad-bdc61f0c9fdf",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "9e5ac5a5-7600-45e2-b5de-6a4a06bf43e5",
+                    "startLine": 17,
+                    "startColumn": 0,
+                    "endLine": 43,
+                    "endColumn": 2,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "ts/state/ducks/audioRecorder.ts",
+            "seeds": [
+                {
+                    "id": "53188a50-bf01-40e2-a045-b58f7f2e480e",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "9e5ac5a5-7600-45e2-b5de-6a4a06bf43e5",
+                    "startLine": 14,
+                    "startColumn": 0,
+                    "endLine": 249,
+                    "endColumn": 1,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
         }
     ],
     "fileSeeds": []

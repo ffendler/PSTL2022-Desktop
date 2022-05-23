@@ -134,6 +134,55 @@
                     "isValidated": true
                 }
             ]
+        },
+        {
+            "file": "stylesheets/components/AudioCapture.scss",
+            "seeds": [
+                {
+                    "id": "b9180d6f-0304-4de7-ab22-0c9d4ee0fce4",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "fc0922da-24e9-4ba0-bc35-c727e0b72866",
+                    "startLine": 37,
+                    "startColumn": 11,
+                    "endLine": 37,
+                    "endColumn": 48,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "64e181c3-b622-4f84-b2c2-d547d0078d6d",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "1ee7052e-dbf7-4c71-ab07-2f996598af99",
+                    "startLine": 43,
+                    "startColumn": 11,
+                    "endLine": 43,
+                    "endColumn": 46,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "56b3e8f2-da44-4e22-9ef8-b0ad3514ed0c",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "08104f9f-80b8-4d4d-94b4-5ec062241bf0",
+                    "startLine": 81,
+                    "startColumn": 11,
+                    "endLine": 81,
+                    "endColumn": 42,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "21c000b7-5786-4b5d-8b0a-64e80be0505f",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "00168ac5-cba0-4e15-8062-19e2fc345c1f",
+                    "startLine": 92,
+                    "startColumn": 28,
+                    "endLine": 92,
+                    "endColumn": 55,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
         }
     ],
     "fileSeeds": []

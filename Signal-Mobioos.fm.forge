@@ -121,7 +121,7 @@
     "fileResources": [
         {
             "key": "fc0922da-24e9-4ba0-bc35-c727e0b72866",
-            "name": "Audio Messages Icon",
+            "name": "Audio Messages Icon Mic Light",
             "type": "Resource feature",
             "parent": "9e5ac5a5-7600-45e2-b5de-6a4a06bf43e5",
             "parentRelation": "Normal",
@@ -160,11 +160,140 @@
             "help": "",
             "nodeWeight": -1,
             "filePath": "images/icons/v2"
+        },
+        {
+            "key": "1ee7052e-dbf7-4c71-ab07-2f996598af99",
+            "name": "Audio Messages Icon Mic Dark",
+            "type": "Resource feature",
+            "parent": "9e5ac5a5-7600-45e2-b5de-6a4a06bf43e5",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#3e38e2",
+            "help": "",
+            "nodeWeight": -1,
+            "filePath": "images/icons/v2"
+        },
+        {
+            "key": "08104f9f-80b8-4d4d-94b4-5ec062241bf0",
+            "name": "Audio Message Icon Check",
+            "type": "Resource feature",
+            "parent": "9e5ac5a5-7600-45e2-b5de-6a4a06bf43e5",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#d6c4be",
+            "help": "",
+            "nodeWeight": -1,
+            "filePath": "images/icons/v2"
+        },
+        {
+            "key": "00168ac5-cba0-4e15-8062-19e2fc345c1f",
+            "name": "Audio Message Icon Cancel",
+            "type": "Resource feature",
+            "parent": "9e5ac5a5-7600-45e2-b5de-6a4a06bf43e5",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#ac3fc4",
+            "help": "",
+            "nodeWeight": -1,
+            "filePath": "images/icons/v2"
         }
     ],
     "textResources": [],
     "smartAppAssetResources": [],
     "colorResources": [],
     "referencedModels": [],
-    "constraints": []
+    "constraints": [
+        {
+            "type": "⇒",
+            "left": {
+                "type": "feature",
+                "featureKey": "bfa031c1-7ff1-4f55-a830-0400be2c5a55"
+            },
+            "right": {
+                "type": "∧",
+                "left": {
+                    "type": "feature",
+                    "featureKey": "fc2ebf79-deec-4ffd-929f-de5adabe2493"
+                },
+                "right": {
+                    "type": "feature",
+                    "featureKey": "fbc1f645-45f3-4729-8b87-adb5fa2f0892"
+                }
+            }
+        },
+        {
+            "type": "⇒",
+            "left": {
+                "type": "feature",
+                "featureKey": "e549de10-5c9c-4a16-bb4f-a7897d5e0734"
+            },
+            "right": {
+                "type": "∨",
+                "left": {
+                    "type": "feature",
+                    "featureKey": "f104f475-fa76-4e83-9221-e7824bf676b0"
+                },
+                "right": {
+                    "type": "feature",
+                    "featureKey": "5d96109d-d00d-402d-a00b-120be9c934c8"
+                }
+            }
+        },
+        {
+            "type": "⇒",
+            "left": {
+                "type": "feature",
+                "featureKey": "9e5ac5a5-7600-45e2-b5de-6a4a06bf43e5"
+            },
+            "right": {
+                "type": "∧",
+                "left": {
+                    "type": "feature",
+                    "featureKey": "1ee7052e-dbf7-4c71-ab07-2f996598af99"
+                },
+                "right": {
+                    "type": "∧",
+                    "left": {
+                        "type": "feature",
+                        "featureKey": "08104f9f-80b8-4d4d-94b4-5ec062241bf0"
+                    },
+                    "right": {
+                        "type": "∧",
+                        "left": {
+                            "type": "feature",
+                            "featureKey": "00168ac5-cba0-4e15-8062-19e2fc345c1f"
+                        },
+                        "right": {
+                            "type": "feature",
+                            "featureKey": "fc0922da-24e9-4ba0-bc35-c727e0b72866"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "type": "⇒",
+            "left": {
+                "type": "feature",
+                "featureKey": "12e5cac5-d2f6-48ed-9b3e-c3af38d13576"
+            },
+            "right": {
+                "type": "∨",
+                "left": {
+                    "type": "feature",
+                    "featureKey": "037d6241-a2b6-4d73-a0dd-a372a700e523"
+                },
+                "right": {
+                    "type": "feature",
+                    "featureKey": "18705dd1-7e8e-4082-8fe5-fdcbc5dcf2f8"
+                }
+            }
+        }
+    ]
 }
